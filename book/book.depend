@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1504279740 source:e:\my projects\books\c book\src\cbook\book\main.c
+
+1504283191 source:e:\my projects\books\c book\src\cbook\01.01 - intro\01.c
+
+1504706158 source:e:\my projects\books\c book\src\cbook\02 - var&aritm\01 - copy.c
+	<stdio.h>
+	<string.h>
+
+1504634717 source:e:\my projects\books\c book\src\cbook\04 - programcontrol\05.c
+	<stdio.h>
+
+1504532538 source:e:\my projects\books\c book\src\cbook\04 - programcontrol\08.c
+	<stdio.h>
+
+1504701029 source:e:\my projects\books\c book\src\cbook\06 - arrays\13.c
+	<stdio.h>
+	<string.h>
+
+1504710470 source:e:\my projects\books\c book\src\cbook\07 - pointers\01.c
+	<stdio.h>
+
+1504732888 source:e:\my projects\books\c book\src\cbook\07 - pointers\06.c
+	<stdio.h>
+	<string.h>
+
+1504821977 source:e:\my projects\books\c book\src\cbook\08 - functions\07.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1504887882 source:e:\my projects\books\c book\src\cbook\09 - structures\01.c
+	<stdio.h>
+
+1504980719 source:e:\my projects\books\c book\src\cbook\10 - files\04.c
+	<stdio.h>
+
+1504996131 source:e:\my projects\books\c book\src\cbook\10 - files\08.c
+	<stdio.h>
+
+1505056015 source:e:\my projects\books\c book\src\cbook\10 - files\09.c
+	<stdio.h>
+
+1505082154 source:e:\my projects\books\c book\src\cbook\11 - preprocessor\calc.c
+	"calc.h"
+
+1505081858 e:\my projects\books\c book\src\cbook\11 - preprocessor\calc.h
+
+1505082571 source:e:\my projects\books\c book\src\cbook\11 - preprocessor\main.c
+	<stdio.h>
+	"calc.h"
+
+1505139184 source:e:\my projects\books\c book\src\cbook\12 - advanced functions and pointers\02.c
+	<stdio.h>
+
+1506264149 source:e:\my projects\books\c book\src\cbook\05 - practical examples\factorial.c
+	<stdio.h>
+
+1506265143 source:e:\my projects\books\c book\src\cbook\05 - practical examples\multiplication.c
+	<stdio.h>
+
