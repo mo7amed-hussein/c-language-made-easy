@@ -1,5 +1,5 @@
 /*
- Filename : 10 - files/05.c
+ Filename : 10 - files/06.c
 Description : read numbers to file
 */
 #include<stdio.h>

@@ -1,6 +1,8 @@
-#C Language Made Easy Book Source Codes [Arabic version]
+Language Made Easy Book Source Codes [Arabic version]
+=====================================================
 
-![demo Screenshots]( https://github.com/mo7amed-hussein/c-language-made-easy-/blob/master/cover/cover.jpg?raw=true )	
+
+![cover]( https://github.com/mo7amed-hussein/c-language-made-easy-/blob/master/cover/cover.jpg?raw=true )	
 
 
 

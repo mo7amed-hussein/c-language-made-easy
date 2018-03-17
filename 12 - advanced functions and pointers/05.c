@@ -1,5 +1,5 @@
 /*
- Filename : 12 - advanced functions and pointers/01.c
+ Filename : 12 - advanced functions and pointers/05.c
 Description : allocate int with malloc
 */
 #include<stdio.h>

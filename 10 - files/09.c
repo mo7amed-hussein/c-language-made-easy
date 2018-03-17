@@ -1,5 +1,5 @@
 /*
- Filename : 10 - files/05.c
+ Filename : 10 - files/09.c
 Description : read file ,in binary mode
 */
 #include<stdio.h>

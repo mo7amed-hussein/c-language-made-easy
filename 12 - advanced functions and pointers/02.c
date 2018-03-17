@@ -1,5 +1,5 @@
 /*
- Filename : 12 - advanced functions and pointers/01.c
+ Filename : 12 - advanced functions and pointers/02.c
 Description : factorial with recursion
 */
 #include<stdio.h>
